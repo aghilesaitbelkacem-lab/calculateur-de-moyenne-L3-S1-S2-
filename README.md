@@ -19,8 +19,7 @@ Ce projet est une application web permettant de calculer la moyenne des étudian
 
 - HTML5
 - CSS3
-- JavaScript
-- PHP (si utilisé dans certaines versions)
+- PHP 
 - XAMPP (environnement local)
 
 ---
